@@ -1,4 +1,4 @@
-## TRIPSlab
+## TRIPS lab
 
 #### COLLIE - **CO**mprehensive **O**nto**L**ogy and **L**exicon **I**n **E**nglish
 
