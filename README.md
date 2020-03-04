@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## TRIPSlab
 
-You can use the [editor on GitHub](https://github.com/tripslab/tripslab.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#### COLLIE - **CO**mprehensive **O**nto**L**ogy and **L**exicon **I**n **E**nglish
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [As an XML resource](https://github.com/mrmechko/flaming-tyrion)
+- [As a json resource](https://github.com/mrmechko/jsontrips)
+- [As a python library - pytrips](https://github.com/mrmechko/pytrips) `pip install pytrips`
 
-### Markdown
+Documentation is available [here](https://github.com/wdebeaum/trips-docs/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tripslab/tripslab.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+`pytrips` quickstart guide in python available [here](https://github.com/mrmechko/pytrips)
